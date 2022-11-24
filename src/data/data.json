@@ -1,0 +1,47 @@
+[
+  {
+    "id": 0,
+    "title": "Café da Manhã",
+    "content": [
+      "Torrada integral: 4 uni",
+      "Ovos: 3 uni",
+      "Iogurte natural integral: 170g"
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Lanche",
+    "content": [
+      "Banana: 3 uni",
+      "Maçã: 2 uni"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Almoço",
+    "content": [
+      "Lentilha: 110g",
+      "Arroz branco: 140g",
+      "Atum em óleo: 2 latas",
+      "Brocolis: 50g"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Café da Tarde",
+    "content": [
+      "Torrada integral: 4 uni",
+      "Creatina: 1 scoop + Whey isolado 90%: 69g"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Jantar",
+    "content": [
+      "Lentilha: 110g",
+      "Arroz branco: 140g",
+      "Atum em óleo: 2 latas",
+      "Brocolis: 50g"
+    ]
+  }
+]
